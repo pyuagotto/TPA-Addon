@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "name": "[1.21.90]TPA Addon",
-        "description": "BetaAPIsを有効にする必要があります",
-        "uuid": "4cab5424-51e9-4123-b980-66a3fce6fbfc",
+        "name": "[1.21.100]TPA Addon",
+        "description": "",
+        "uuid": "a7b8c9d0-e1f2-4a5b-9c8d-7e6f5a4b3c2d",
         "version": [
             0,
             1,
@@ -19,7 +19,7 @@
         {
             "description": "GameTest module",
             "type": "script",
-            "uuid": "0b43d40a-b112-4c9c-8663-5e51c3bae825",
+            "uuid": "f8e7d6c5-b4a3-4925-8e7f-6d5c4b3a2190",
             "version": [
                 0,
                 1,
@@ -31,11 +31,11 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "2.1.0-beta"
+            "version": "2.1.0"
         },
         {
             "module_name": "@minecraft/server-ui",
-            "version": "2.1.0-beta"
+            "version": "2.1.0"
         }
     ]
 }
